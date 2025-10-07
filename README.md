@@ -1,2 +1,2 @@
-# Excel Data AnalysisProject 
+# Excel Data Analysis Project 
 Coffee-shop-sales 
